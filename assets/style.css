@@ -135,8 +135,8 @@ header .name {
 
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-    color: #fff;
-    background-color: #beb45a;
+    color: #FFFFFF;
+    background-color: #424242;
     border-radius: 0
 }
 
